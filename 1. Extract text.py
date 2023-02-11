@@ -1,7 +1,7 @@
 # Web scrapping for xml sheet 
 
 import os
-os.chdir(r"C:\Users\kdata\Desktop\KODI WORK\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_single articles")
+os.chdir(r"C:\Users\kdata\Desktop\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_single articles")
 
 import xml.etree.ElementTree as ET
 
