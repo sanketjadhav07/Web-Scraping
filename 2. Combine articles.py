@@ -12,12 +12,12 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 lem=WordNetLemmatizer()
 
-os.chdir(r'C:\Users\kdata\Desktop\KODI WORK\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_many articles')
+os.chdir(r'C:\Users\kdata\Desktop\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_many articles')
 
 
 from glob import glob
 
-path=r'C:\Users\kdata\Desktop\KODI WORK\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_many articles'
+path=r'C:\Users\kdata\Desktop\0. DATASCIENCE PROJECT\14. NLP WEB SCRAPING\xml_many articles'
 all_files = glob(os.path.join(path, "*.xml"))
 
 import xml.etree.ElementTree as ET
@@ -31,8 +31,6 @@ for filename in all_files:
 
 
 dfs[0]
-
-################
 
 import bs4 as bs
 import urllib.request
