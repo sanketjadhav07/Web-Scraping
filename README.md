@@ -1,8 +1,8 @@
-# Web Scraping for XML Articles
+# Web Scraping 
 
 ## Overview
 
-The **Web Scraping for XML Articles** project is designed to extract and analyze textual data from XML files containing articles. By utilizing Natural Language Processing (NLP) techniques, this project cleans, processes, and clusters the text data, providing insights into the content of the articles. The analysis includes data extraction, text preprocessing, feature extraction, and clustering, enabling users to understand patterns and themes within the articles.
+The **Web Scraping** project is designed to extract and analyze textual data from XML files containing articles. By utilizing Natural Language Processing (NLP) techniques, this project cleans, processes, and clusters the text data, providing insights into the content of the articles. The analysis includes data extraction, text preprocessing, feature extraction, and clustering, enabling users to understand patterns and themes within the articles.
 
 ## Purpose
 
